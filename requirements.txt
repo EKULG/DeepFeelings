@@ -1,0 +1,50 @@
+# packaging
+pip>=9
+setuptools>=26
+twine
+wheel>=0.29
+
+# data science
+numpy
+pandas
+scikit-learn
+
+# tests/linter
+black
+coverage
+flake8
+pytest
+yapf
+
+# API
+gcsfs
+google-cloud-storage
+s3fs
+tweepy
+requests
+
+# utilities
+six>=1.14
+joblib
+memoized-property
+termcolor
+
+
+# web scraping
+bs4
+requests
+python-dotenv
+
+#scraping
+selenium
+
+
+#preprocessing
+string
+nltk.stem
+nltk.corpus
+re
+emoji
+
+#model
+tensorflow_hub
